@@ -1,6 +1,6 @@
 # Leetcode-Solutions
 
-## Мой репозиторий с решенными Leetcode задачи
+## Мой репозиторий с решенными Leetcode задачами
 
 ## Решаю задачи в порядке здесь https://neetcode.io/practice с режимом NeetCode All
 
