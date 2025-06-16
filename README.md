@@ -2,7 +2,7 @@
 
 ## Мой репозиторий с решенными Leetcode задачами
 
-## Решаю задачи в порядке здесь https://neetcode.io/practice с режимом NeetCode All
+## Решаю задачи в таком порядке https://neetcode.io/practice с режимом NeetCode All (797 задач)
 
 ### Репозиторий состоит из папок
 
