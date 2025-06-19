@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// ? Задача - https://leetcode.com/problems/maximum-ascending-subarray-sum/description/
+// ? Задача - https://leetcode.com/problems/maximum-ascending-subarray-sum/
 // ? Lvl - Easy
 
 int maxAscendingSum(vector<int>& nums) {
